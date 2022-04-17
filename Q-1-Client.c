@@ -1,7 +1,6 @@
-/*
-1.Write a udp client server program,client writing messages to server program and server
-return back the same toggled msg to client
-*/
+
+// 1.Write a udp client server program,client writing messages to server program and server return back the same toggled msg to client
+
 
 #include <unistd.h>
 #include <stdio.h>
